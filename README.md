@@ -17,7 +17,7 @@
   <img align="center" alt="Beto-Firebase" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" > 
   <img align="center" alt="Beto-Photoshop" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" >  
   <img align="center" alt="Beto-Mysql" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-   <img align="right" alt="Beto-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_xnfcpJ5R.png">       
+   <img align="right" alt="Beto-pic" height="150" style="border-radius:50px" src="https://picrew.me/shareImg/org/202208/338224_xnfcpJ5R.png">       
 </div>
   
   ##
@@ -29,5 +29,5 @@
   <a href="https://www.linkedin.com/in/roberto-nunes-martins-56095714b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5511930784901&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <br>
-  <img  align="center src="https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/a3bb86a9-7c1b-430d-830e-caf859b0ba40/fox-jumpanimation.gif?format=1000w">
+  <img  align="center src="[https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/a3bb86a9-7c1b-430d-830e-caf859b0ba40/fox-jumpanimation.gif?format=1000w](https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/2ccee59a-5001-4490-8e1b-fc3ffb762188/fox-run2.gif?format=1000w)">
 </div>
