@@ -12,7 +12,6 @@
   <img align="center" alt="Beto-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beto-Php" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Beto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Beto-Firebase" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" > 
   <img align="center" alt="Beto-Photoshop" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" >  
@@ -29,5 +28,5 @@
   <a href="https://www.linkedin.com/in/roberto-nunes-martins-56095714b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5511930784901&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     <br>
-  <img  align="center src="[https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/a3bb86a9-7c1b-430d-830e-caf859b0ba40/fox-jumpanimation.gif?format=1000w](https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/2ccee59a-5001-4490-8e1b-fc3ffb762188/fox-run2.gif?format=1000w)">
+  <img  align="center style="width 1000px" src="[https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/a3bb86a9-7c1b-430d-830e-caf859b0ba40/fox-jumpanimation.gif?format=1000w](https://images.squarespace-cdn.com/content/v1/64666dca490b020a99132a0e/2ccee59a-5001-4490-8e1b-fc3ffb762188/fox-run2.gif?format=1000w)">
 </div>
