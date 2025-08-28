@@ -16,7 +16,8 @@
   <img align="center" alt="Beto-Firebase" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" > 
   <img align="center" alt="Beto-Photoshop" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" >  
   <img align="center" alt="Beto-Mysql" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="right" alt="Beto-pic" height="150" style="border-radius:50px" src="https://picrew.me/shareImg/org/202208/338224_xnfcpJ5R.png">       
+  <img align="right" alt="Beto-pic" height="150" style="border-radius:50px" src="https://picrew.me/shareImg/org/202208/338224_xnfcpJ5R.png"> 
+  <img  align="center alt="Beto-KitsuneRun" src="https://github.com/robertonunes449/kitsune-Run/blob/robertonunes449/ClienteCadastro/fox-run2.gif"/>
 </div>
   
   ##
@@ -30,5 +31,5 @@
   </div>
   <br>
   <div>
-     <img  align="center  src="https://github.com/robertonunes449/kitsune-Run/blob/robertonunes449/ClienteCadastro/fox-run2.gif"/>
+   
   </div>
